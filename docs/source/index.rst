@@ -1,0 +1,1 @@
+.. autofunction:: t.foo
